@@ -33,5 +33,6 @@ public class Addition
 		// r.addition(a, b);
 		// System.out.println("Addition of two numbers is : " + r.c);
 		System.out.println("Addition of two numbers is : " + r.addition(a, b, c));
+        sc.close();
 	} 
 }
